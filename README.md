@@ -10,4 +10,8 @@ You will find it under :
 File
 -Enable Autosave
 
+File are saved every 10 minutes
+Saved files are found under /tmp/gimp_xxxxx.xcf
+
+
 GEDEBOS/JDB
